@@ -1,0 +1,541 @@
+crew_member_id,mission_id,measurement_date,mission_phase,sleep_duration_hours,sleep_efficiency_pct,mood_self_report_1_5,perceived_stress_1_5,psychomotor_reaction_time_median_ms,self_report_scale,measurement_source
+1,MARS-DEMO-01,2026-08-01 21:00:00,Launch & Adaptation,7.65,83.3,4.0,1.3,240.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-02 21:00:00,Launch & Adaptation,6.76,84.7,4.7,1.4,251.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-03 21:00:00,Launch & Adaptation,7.55,89.2,4.1,1.7,245.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-04 21:00:00,Launch & Adaptation,7.6,84.8,3.9,1.8,252.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-05 21:00:00,Launch & Adaptation,7.39,90.1,4.2,1.8,251.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-06 21:00:00,Launch & Adaptation,7.24,87.9,4.1,1.4,248.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-07 21:00:00,Launch & Adaptation,7.22,89.7,4.4,1.5,264.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-08 21:00:00,Launch & Adaptation,7.42,94.9,4.7,2.0,252.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-09 21:00:00,Launch & Adaptation,8.18,84.1,4.5,2.0,251.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-10 21:00:00,Launch & Adaptation,7.92,88.4,4.1,2.4,247.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-11 21:00:00,Cruise,7.42,90.0,4.3,2.2,274.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-12 21:00:00,Cruise,7.73,92.7,4.9,2.0,232.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-13 21:00:00,Cruise,5.94,81.1,4.0,2.7,266.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-14 21:00:00,Cruise,6.23,81.4,3.9,3.0,278.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-15 21:00:00,Cruise,6.17,76.9,3.8,2.6,272.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-16 21:00:00,Cruise,6.39,87.1,4.2,2.9,279.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-17 21:00:00,Cruise,6.19,79.9,3.7,2.1,283.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-18 21:00:00,Cruise,5.37,78.1,4.4,3.3,296.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-19 21:00:00,Cruise,6.74,84.7,4.5,2.9,284.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-20 21:00:00,Cruise,7.82,89.8,4.2,1.5,235.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-21 21:00:00,Cruise,6.94,93.0,4.5,2.4,229.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-22 21:00:00,Cruise,6.97,84.1,3.7,2.0,276.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-23 21:00:00,Cruise,7.34,85.9,4.4,1.9,255.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-24 21:00:00,Cruise,7.79,80.4,4.1,2.1,239.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-25 21:00:00,Cruise,7.57,90.4,4.6,1.8,256.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-26 21:00:00,Cruise,7.34,80.0,4.4,1.4,263.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-27 21:00:00,Cruise,7.83,80.1,4.2,1.8,229.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-28 21:00:00,Cruise,7.46,94.5,4.2,2.2,242.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-29 21:00:00,Cruise,7.32,90.4,4.4,1.7,254.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-30 21:00:00,Cruise,8.39,94.0,3.9,3.0,277.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-08-31 21:00:00,Cruise,7.79,90.0,4.0,2.1,259.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-01 21:00:00,Cruise,7.1,93.5,4.7,1.8,235.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-02 21:00:00,Cruise,8.5,90.8,4.2,2.0,230.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-03 21:00:00,Cruise,8.4,94.0,3.7,2.0,242.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-04 21:00:00,Cruise,7.86,95.0,3.5,2.0,256.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-05 21:00:00,Cruise,7.25,83.2,4.1,2.2,251.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-06 21:00:00,Cruise,8.07,83.2,4.4,2.1,252.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-07 21:00:00,Cruise,7.53,83.8,4.0,2.7,240.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-08 21:00:00,Cruise,7.53,87.5,4.4,2.1,242.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-09 21:00:00,Cruise,7.2,78.2,4.8,1.9,237.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-10 21:00:00,Cruise,6.77,95.1,4.1,2.0,232.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-11 21:00:00,Cruise,7.02,87.3,3.6,2.1,264.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-12 21:00:00,Cruise,7.32,90.1,4.1,1.6,257.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-13 21:00:00,Cruise,7.3,86.7,3.7,2.1,243.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-14 21:00:00,Cruise,7.11,89.6,4.3,2.2,250.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-15 21:00:00,Cruise,7.43,92.6,4.8,2.7,250.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-16 21:00:00,Cruise,7.23,83.4,3.9,2.7,248.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-17 21:00:00,Cruise,7.5,88.8,4.4,1.8,235.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-18 21:00:00,Cruise,7.42,85.7,4.7,1.9,231.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-19 21:00:00,Cruise,6.99,85.6,4.2,1.9,235.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-20 21:00:00,Cruise,7.64,92.8,3.9,2.4,216.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-21 21:00:00,Cruise,7.7,88.9,3.8,2.4,250.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-22 21:00:00,Cruise,7.6,85.0,4.1,2.3,241.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-23 21:00:00,Cruise,8.19,83.7,4.2,1.5,250.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-24 21:00:00,Cruise,8.0,86.6,3.8,1.9,254.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-25 21:00:00,Cruise,7.92,83.6,3.8,2.1,257.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-26 21:00:00,Cruise,8.05,83.9,4.4,2.1,218.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-27 21:00:00,Cruise,7.01,95.8,3.8,2.1,238.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-28 21:00:00,Cruise,7.29,85.3,4.1,1.6,240.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-29 21:00:00,Cruise,7.55,95.0,3.7,1.4,246.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-09-30 21:00:00,Cruise,7.32,89.0,4.4,1.1,261.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-01 21:00:00,Cruise,7.27,86.7,4.1,2.0,250.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-02 21:00:00,Cruise,7.68,83.4,4.0,2.2,277.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-03 21:00:00,Cruise,8.18,85.1,4.4,2.6,235.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-04 21:00:00,Cruise,7.33,87.6,3.9,1.9,241.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-05 21:00:00,Cruise,7.8,79.1,3.8,2.1,238.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-06 21:00:00,Cruise,7.79,95.8,4.5,2.0,251.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-07 21:00:00,Cruise,7.54,89.0,3.9,1.9,236.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-08 21:00:00,Cruise,7.18,82.3,4.5,1.8,222.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-09 21:00:00,Cruise,7.61,88.2,4.5,1.7,248.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-10 21:00:00,Return Preparation,7.55,80.4,4.0,1.9,242.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-11 21:00:00,Return Preparation,7.67,90.6,4.2,2.1,256.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-12 21:00:00,Return Preparation,6.82,88.1,3.7,2.0,239.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-13 21:00:00,Return Preparation,7.14,87.0,4.7,1.7,221.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-14 21:00:00,Return Preparation,8.23,85.6,4.5,1.8,236.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-15 21:00:00,Return Preparation,8.15,87.7,3.6,2.6,245.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-16 21:00:00,Return Preparation,6.92,95.1,4.5,1.7,255.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-17 21:00:00,Return Preparation,6.63,79.3,4.2,1.7,226.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-18 21:00:00,Return Preparation,7.58,80.8,3.9,2.2,231.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-19 21:00:00,Return Preparation,7.51,86.7,4.5,2.4,246.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-20 21:00:00,Return Preparation,7.38,91.8,4.0,1.7,242.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-21 21:00:00,Return Preparation,6.71,95.1,4.7,1.7,250.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-22 21:00:00,Return Preparation,7.87,89.0,4.2,2.2,227.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-23 21:00:00,Return Preparation,7.44,85.9,3.9,2.1,260.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-24 21:00:00,Return Preparation,7.63,79.9,4.2,1.7,253.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-25 21:00:00,Return Preparation,6.92,92.1,4.7,1.7,235.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-26 21:00:00,Return Preparation,7.22,86.7,4.2,2.2,254.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-27 21:00:00,Return Preparation,7.52,95.7,4.0,1.7,234.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-28 21:00:00,Return Preparation,8.03,94.0,3.9,2.4,260.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+1,MARS-DEMO-01,2026-10-29 21:00:00,Return Preparation,7.54,89.7,4.3,2.6,256.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-01 21:00:00,Launch & Adaptation,7.17,93.8,3.4,1.9,247.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-02 21:00:00,Launch & Adaptation,7.87,84.2,4.0,2.0,244.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-03 21:00:00,Launch & Adaptation,7.77,91.5,4.5,2.0,254.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-04 21:00:00,Launch & Adaptation,6.58,90.7,4.5,1.9,267.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-05 21:00:00,Launch & Adaptation,8.0,92.2,3.5,2.4,251.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-06 21:00:00,Launch & Adaptation,7.59,90.8,3.9,2.1,247.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-07 21:00:00,Launch & Adaptation,7.6,85.5,4.2,2.3,256.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-08 21:00:00,Launch & Adaptation,7.14,87.5,4.3,2.1,248.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-09 21:00:00,Launch & Adaptation,7.84,91.3,4.8,2.7,240.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-10 21:00:00,Launch & Adaptation,7.93,89.5,4.0,2.4,247.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-11 21:00:00,Cruise,7.3,93.6,4.0,2.3,264.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-12 21:00:00,Cruise,8.07,89.7,3.5,1.5,255.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-13 21:00:00,Cruise,7.63,83.1,3.9,2.7,248.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-14 21:00:00,Cruise,7.3,90.2,3.7,1.9,244.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-15 21:00:00,Cruise,7.48,89.7,3.4,1.9,247.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-16 21:00:00,Cruise,8.42,91.3,4.0,2.3,272.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-17 21:00:00,Cruise,7.76,88.7,4.5,2.4,235.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-18 21:00:00,Cruise,8.21,92.8,4.1,2.8,271.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-19 21:00:00,Cruise,8.56,86.0,4.1,1.9,263.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-20 21:00:00,Cruise,8.1,89.6,4.2,2.5,252.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-21 21:00:00,Cruise,7.88,96.2,3.4,1.9,253.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-22 21:00:00,Cruise,7.85,94.2,3.4,2.4,273.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-23 21:00:00,Cruise,8.32,99.0,4.2,2.5,258.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-24 21:00:00,Cruise,7.29,93.1,4.4,2.4,247.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-25 21:00:00,Cruise,6.52,79.7,3.4,3.2,288.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-26 21:00:00,Cruise,5.38,78.7,3.7,3.5,285.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-27 21:00:00,Cruise,5.24,79.0,3.5,3.3,295.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-28 21:00:00,Cruise,6.11,69.7,3.9,4.6,287.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-29 21:00:00,Cruise,5.88,76.6,3.4,4.4,304.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-30 21:00:00,Cruise,5.35,80.9,2.4,3.8,290.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-08-31 21:00:00,Cruise,5.73,81.8,3.1,3.3,284.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-01 21:00:00,Cruise,5.95,69.6,3.5,4.2,282.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-02 21:00:00,Cruise,5.71,78.2,3.0,3.4,306.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-03 21:00:00,Cruise,5.42,78.7,3.0,3.3,292.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-04 21:00:00,Cruise,6.84,81.1,3.5,3.7,308.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-05 21:00:00,Cruise,6.08,72.0,3.1,4.5,287.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-06 21:00:00,Cruise,6.23,79.7,2.9,3.4,299.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-07 21:00:00,Cruise,7.67,86.3,4.4,2.7,249.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-08 21:00:00,Cruise,7.35,88.7,3.8,1.8,246.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-09 21:00:00,Cruise,6.75,83.0,3.5,2.4,233.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-10 21:00:00,Cruise,7.18,86.7,4.0,2.1,245.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-11 21:00:00,Cruise,7.26,85.8,4.4,1.0,259.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-12 21:00:00,Cruise,7.79,92.4,4.1,1.8,231.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-13 21:00:00,Cruise,7.29,89.5,3.8,2.5,253.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-14 21:00:00,Cruise,7.69,91.0,4.4,2.2,250.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-15 21:00:00,Cruise,8.06,98.1,3.9,1.7,265.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-16 21:00:00,Cruise,8.21,91.5,3.9,2.5,246.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-17 21:00:00,Cruise,7.07,90.4,4.7,2.5,253.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-18 21:00:00,Cruise,7.16,89.8,4.6,2.5,238.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-19 21:00:00,Cruise,8.28,86.7,4.1,1.6,257.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-20 21:00:00,Cruise,7.26,91.8,3.8,1.9,262.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-21 21:00:00,Cruise,7.32,87.5,3.7,2.5,240.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-22 21:00:00,Cruise,8.33,85.0,3.8,2.3,262.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-23 21:00:00,Cruise,8.43,93.3,4.0,2.7,268.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-24 21:00:00,Cruise,7.97,99.0,3.8,1.9,246.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-25 21:00:00,Cruise,8.03,94.5,3.8,2.8,255.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-26 21:00:00,Cruise,7.67,93.3,3.4,2.0,248.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-27 21:00:00,Cruise,7.93,84.6,3.9,2.0,237.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-28 21:00:00,Cruise,7.95,89.2,4.3,1.8,249.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-29 21:00:00,Cruise,7.54,96.5,3.5,2.4,267.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-09-30 21:00:00,Cruise,8.47,89.4,4.3,2.1,255.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-01 21:00:00,Cruise,7.45,95.1,4.0,2.7,265.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-02 21:00:00,Cruise,7.45,96.0,4.5,1.9,270.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-03 21:00:00,Cruise,7.59,89.5,4.1,2.4,241.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-04 21:00:00,Cruise,8.13,85.3,3.3,2.6,253.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-05 21:00:00,Cruise,7.48,90.9,4.6,2.6,260.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-06 21:00:00,Cruise,7.56,88.3,3.7,1.7,262.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-07 21:00:00,Cruise,7.64,93.9,3.4,1.9,274.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-08 21:00:00,Cruise,7.1,89.1,4.0,2.3,257.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-09 21:00:00,Cruise,7.39,96.4,3.9,2.1,264.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-10 21:00:00,Return Preparation,7.55,91.3,3.8,1.7,236.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-11 21:00:00,Return Preparation,8.22,93.1,4.2,2.6,250.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-12 21:00:00,Return Preparation,7.49,89.0,4.5,1.9,269.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-13 21:00:00,Return Preparation,8.15,89.3,4.4,1.8,255.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-14 21:00:00,Return Preparation,7.37,93.1,4.7,1.9,246.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-15 21:00:00,Return Preparation,8.16,94.5,3.9,2.2,290.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-16 21:00:00,Return Preparation,7.32,89.4,4.2,2.4,254.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-17 21:00:00,Return Preparation,7.44,90.3,3.7,1.7,269.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-18 21:00:00,Return Preparation,8.29,87.3,4.3,1.8,259.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-19 21:00:00,Return Preparation,7.16,94.5,3.7,2.5,248.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-20 21:00:00,Return Preparation,7.66,91.6,4.6,2.0,256.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-21 21:00:00,Return Preparation,7.67,86.1,3.8,2.1,236.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-22 21:00:00,Return Preparation,7.7,86.3,4.5,2.8,246.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-23 21:00:00,Return Preparation,7.42,94.1,4.0,2.8,261.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-24 21:00:00,Return Preparation,7.89,88.9,4.2,2.1,241.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-25 21:00:00,Return Preparation,7.24,87.5,3.6,2.2,240.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-26 21:00:00,Return Preparation,8.14,83.3,3.9,1.9,258.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-27 21:00:00,Return Preparation,7.51,95.8,3.8,1.9,264.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-28 21:00:00,Return Preparation,7.79,90.6,4.1,1.7,254.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+2,MARS-DEMO-01,2026-10-29 21:00:00,Return Preparation,7.39,97.2,3.9,2.2,257.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-01 21:00:00,Launch & Adaptation,7.3,87.3,4.1,1.6,240.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-02 21:00:00,Launch & Adaptation,6.93,89.8,4.1,1.6,249.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-03 21:00:00,Launch & Adaptation,6.9,91.9,4.5,2.2,207.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-04 21:00:00,Launch & Adaptation,6.37,83.7,3.4,1.5,234.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-05 21:00:00,Launch & Adaptation,8.39,89.6,4.1,2.6,219.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-06 21:00:00,Launch & Adaptation,6.51,84.6,4.2,2.7,232.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-07 21:00:00,Launch & Adaptation,7.74,90.2,3.5,2.7,250.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-08 21:00:00,Launch & Adaptation,7.64,84.0,4.2,2.3,238.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-09 21:00:00,Launch & Adaptation,7.29,83.9,4.2,2.1,233.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-10 21:00:00,Launch & Adaptation,7.03,90.0,4.0,2.5,243.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-11 21:00:00,Cruise,7.98,86.7,3.6,2.1,246.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-12 21:00:00,Cruise,7.16,84.3,4.2,2.2,227.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-13 21:00:00,Cruise,8.47,89.1,3.4,3.1,245.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-14 21:00:00,Cruise,7.78,84.8,4.0,1.9,251.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-15 21:00:00,Cruise,7.61,80.5,4.3,1.7,245.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-16 21:00:00,Cruise,7.63,82.9,4.1,1.9,218.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-17 21:00:00,Cruise,6.61,91.1,3.9,2.6,237.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-18 21:00:00,Cruise,6.86,92.8,4.4,2.1,245.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-19 21:00:00,Cruise,6.3,83.2,3.7,2.0,248.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-20 21:00:00,Cruise,6.98,90.2,4.7,2.4,233.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-21 21:00:00,Cruise,7.15,91.2,3.6,2.4,237.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-22 21:00:00,Cruise,7.09,83.0,4.0,2.0,249.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-23 21:00:00,Cruise,7.18,87.4,4.0,2.0,233.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-24 21:00:00,Cruise,6.77,83.4,4.0,1.7,237.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-25 21:00:00,Cruise,7.04,91.4,4.3,2.1,235.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-26 21:00:00,Cruise,7.12,88.9,4.2,2.2,213.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-27 21:00:00,Cruise,7.64,89.0,3.8,2.1,251.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-28 21:00:00,Cruise,7.35,90.2,5.0,2.0,259.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-29 21:00:00,Cruise,7.48,95.6,4.6,2.1,216.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-30 21:00:00,Cruise,7.78,89.1,3.6,2.1,234.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-08-31 21:00:00,Cruise,7.56,92.0,4.0,2.4,230.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-01 21:00:00,Cruise,7.22,90.1,5.0,1.6,249.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-02 21:00:00,Cruise,7.05,87.7,4.5,1.7,255.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-03 21:00:00,Cruise,7.1,83.3,3.9,2.5,258.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-04 21:00:00,Cruise,7.66,86.7,4.4,2.1,243.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-05 21:00:00,Cruise,6.94,95.8,4.2,2.4,248.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-06 21:00:00,Cruise,6.85,78.9,4.2,3.1,268.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-07 21:00:00,Cruise,6.8,80.8,4.2,2.5,224.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-08 21:00:00,Cruise,8.08,83.7,3.9,1.7,239.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-09 21:00:00,Cruise,7.29,79.6,4.4,2.7,253.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-10 21:00:00,Cruise,7.53,89.7,3.9,1.6,246.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-11 21:00:00,Cruise,7.39,86.1,4.3,2.0,224.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-12 21:00:00,Cruise,7.5,89.4,4.1,2.2,253.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-13 21:00:00,Cruise,6.6,83.2,5.0,1.5,246.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-14 21:00:00,Cruise,7.2,84.3,4.0,2.3,245.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-15 21:00:00,Cruise,7.23,85.3,3.9,1.6,249.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-16 21:00:00,Cruise,7.35,90.1,4.3,1.5,227.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-17 21:00:00,Cruise,6.99,79.7,4.9,2.1,224.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-18 21:00:00,Cruise,7.05,83.1,4.3,2.3,261.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-19 21:00:00,Cruise,7.31,81.3,3.7,2.3,244.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-20 21:00:00,Cruise,6.7,96.0,4.3,2.2,267.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-21 21:00:00,Cruise,7.74,86.4,4.3,1.9,249.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-22 21:00:00,Cruise,7.36,91.8,4.2,2.3,217.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-23 21:00:00,Cruise,7.77,87.6,4.7,1.7,253.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-24 21:00:00,Cruise,6.8,82.1,3.8,2.3,230.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-25 21:00:00,Cruise,6.6,97.1,4.0,2.6,238.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-26 21:00:00,Cruise,7.5,79.7,4.0,1.9,226.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-27 21:00:00,Cruise,7.0,90.2,3.4,1.6,232.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-28 21:00:00,Cruise,7.99,85.6,4.3,2.2,226.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-29 21:00:00,Cruise,7.65,85.8,4.2,2.0,236.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-09-30 21:00:00,Cruise,8.33,82.8,3.8,2.5,218.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-01 21:00:00,Cruise,6.94,87.2,4.0,2.1,253.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-02 21:00:00,Cruise,6.68,86.6,3.4,2.1,252.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-03 21:00:00,Cruise,7.19,87.1,4.8,2.7,220.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-04 21:00:00,Cruise,6.91,84.5,3.8,2.1,224.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-05 21:00:00,Cruise,7.64,85.2,4.2,1.9,233.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-06 21:00:00,Cruise,7.96,87.6,4.5,2.2,261.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-07 21:00:00,Cruise,7.23,80.5,4.0,2.1,253.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-08 21:00:00,Cruise,7.32,87.8,3.9,2.1,251.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-09 21:00:00,Cruise,6.69,85.3,3.9,1.7,238.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-10 21:00:00,Return Preparation,6.77,87.5,4.0,2.2,234.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-11 21:00:00,Return Preparation,6.83,84.0,4.5,2.1,234.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-12 21:00:00,Return Preparation,7.84,80.7,4.4,1.8,241.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-13 21:00:00,Return Preparation,7.47,91.8,4.0,2.5,229.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-14 21:00:00,Return Preparation,7.09,81.7,4.1,2.1,256.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-15 21:00:00,Return Preparation,7.8,89.8,3.6,1.6,235.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-16 21:00:00,Return Preparation,7.85,84.2,4.0,2.2,225.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-17 21:00:00,Return Preparation,7.66,77.6,3.6,2.4,231.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-18 21:00:00,Return Preparation,6.78,85.5,4.1,2.6,235.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-19 21:00:00,Return Preparation,7.27,86.3,4.2,2.7,247.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-20 21:00:00,Return Preparation,6.81,89.3,4.5,1.2,247.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-21 21:00:00,Return Preparation,7.52,85.6,4.5,2.4,243.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-22 21:00:00,Return Preparation,7.12,90.0,3.8,1.3,231.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-23 21:00:00,Return Preparation,8.18,86.1,4.0,2.5,244.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-24 21:00:00,Return Preparation,7.88,79.4,3.9,2.0,231.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-25 21:00:00,Return Preparation,7.36,88.3,3.9,1.1,210.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-26 21:00:00,Return Preparation,8.28,93.3,4.2,2.2,218.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-27 21:00:00,Return Preparation,6.85,84.0,3.9,2.4,229.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-28 21:00:00,Return Preparation,7.73,85.3,4.1,2.0,233.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+3,MARS-DEMO-01,2026-10-29 21:00:00,Return Preparation,6.99,89.6,4.2,2.1,239.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-01 21:00:00,Launch & Adaptation,7.4,98.2,4.3,1.4,264.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-02 21:00:00,Launch & Adaptation,8.17,89.9,4.2,1.8,263.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-03 21:00:00,Launch & Adaptation,7.14,86.8,5.0,2.1,249.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-04 21:00:00,Launch & Adaptation,7.83,97.2,4.4,1.8,239.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-05 21:00:00,Launch & Adaptation,8.21,95.3,5.0,1.8,217.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-06 21:00:00,Launch & Adaptation,7.59,90.2,4.3,2.2,250.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-07 21:00:00,Launch & Adaptation,6.98,89.2,4.3,1.8,261.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-08 21:00:00,Launch & Adaptation,8.43,99.0,4.6,1.4,260.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-09 21:00:00,Launch & Adaptation,7.83,87.7,4.1,2.2,253.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-10 21:00:00,Launch & Adaptation,8.19,90.4,4.1,2.2,225.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-11 21:00:00,Cruise,7.28,96.9,4.6,1.2,262.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-12 21:00:00,Cruise,8.13,92.1,4.4,1.5,239.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-13 21:00:00,Cruise,7.67,86.5,4.8,1.5,234.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-14 21:00:00,Cruise,7.16,85.5,4.1,2.2,230.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-15 21:00:00,Cruise,7.51,92.6,3.8,2.1,247.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-16 21:00:00,Cruise,8.07,84.5,4.0,1.5,241.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-17 21:00:00,Cruise,8.9,91.9,4.3,2.0,242.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-18 21:00:00,Cruise,7.76,89.7,4.2,1.8,225.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-19 21:00:00,Cruise,8.13,90.6,4.5,2.4,238.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-20 21:00:00,Cruise,7.56,88.7,4.4,1.9,253.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-21 21:00:00,Cruise,8.29,99.0,4.6,1.3,251.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-22 21:00:00,Cruise,8.59,97.8,4.3,2.0,224.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-23 21:00:00,Cruise,7.33,93.1,4.5,2.3,238.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-24 21:00:00,Cruise,8.41,86.9,3.9,1.1,237.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-25 21:00:00,Cruise,7.78,90.0,4.0,2.3,232.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-26 21:00:00,Cruise,7.88,90.2,4.2,2.3,227.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-27 21:00:00,Cruise,8.11,90.6,4.4,1.8,263.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-28 21:00:00,Cruise,7.95,84.8,4.7,2.0,239.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-29 21:00:00,Cruise,7.68,92.6,4.1,1.8,224.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-30 21:00:00,Cruise,7.64,87.3,4.7,1.7,214.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-08-31 21:00:00,Cruise,8.19,99.0,4.5,2.0,243.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-01 21:00:00,Cruise,7.77,87.9,4.0,1.0,257.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-02 21:00:00,Cruise,8.2,92.7,4.9,1.8,256.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-03 21:00:00,Cruise,7.34,84.4,4.4,2.4,256.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-04 21:00:00,Cruise,8.01,93.0,4.3,1.6,243.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-05 21:00:00,Cruise,8.21,87.5,4.6,2.1,228.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-06 21:00:00,Cruise,7.68,92.7,4.2,2.2,245.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-07 21:00:00,Cruise,7.65,92.2,5.0,2.3,242.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-08 21:00:00,Cruise,8.39,92.6,4.4,1.8,238.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-09 21:00:00,Cruise,7.38,92.7,4.8,1.4,246.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-10 21:00:00,Cruise,7.81,88.2,4.8,2.5,246.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-11 21:00:00,Cruise,6.97,84.2,4.1,2.0,248.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-12 21:00:00,Cruise,6.87,94.1,4.7,2.2,252.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-13 21:00:00,Cruise,8.33,94.7,4.6,2.4,241.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-14 21:00:00,Cruise,7.52,89.5,4.7,2.1,238.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-15 21:00:00,Cruise,7.29,91.1,4.9,1.4,261.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-16 21:00:00,Cruise,7.05,86.9,4.7,1.0,241.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-17 21:00:00,Cruise,7.99,89.7,4.3,1.9,248.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-18 21:00:00,Cruise,8.32,93.2,4.9,1.7,238.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-19 21:00:00,Cruise,7.67,92.8,4.8,1.2,265.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-20 21:00:00,Cruise,7.07,91.0,4.7,2.3,229.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-21 21:00:00,Cruise,8.26,92.5,5.0,1.9,254.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-22 21:00:00,Cruise,8.01,89.2,4.4,1.5,259.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-23 21:00:00,Cruise,7.17,95.7,4.3,1.5,245.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-24 21:00:00,Cruise,7.41,93.5,4.2,1.3,250.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-25 21:00:00,Cruise,8.48,96.6,3.7,1.5,235.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-26 21:00:00,Cruise,8.05,92.4,4.4,1.6,229.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-27 21:00:00,Cruise,8.36,89.0,4.6,2.5,219.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-28 21:00:00,Cruise,8.27,96.5,4.5,2.1,238.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-29 21:00:00,Cruise,8.45,87.7,4.0,1.7,244.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-09-30 21:00:00,Cruise,7.69,87.5,4.2,1.4,224.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-01 21:00:00,Cruise,8.09,95.6,4.6,1.8,245.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-02 21:00:00,Cruise,7.41,92.8,4.1,1.9,226.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-03 21:00:00,Cruise,8.02,95.9,4.3,1.4,238.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-04 21:00:00,Cruise,7.7,88.4,5.0,1.5,238.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-05 21:00:00,Cruise,8.0,88.7,4.3,2.0,257.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-06 21:00:00,Cruise,7.88,82.9,4.8,1.6,250.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-07 21:00:00,Cruise,8.5,88.5,4.4,1.4,259.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-08 21:00:00,Cruise,8.48,97.2,4.4,2.4,231.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-09 21:00:00,Cruise,6.46,94.2,4.6,1.1,234.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-10 21:00:00,Return Preparation,7.86,81.2,4.8,2.0,246.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-11 21:00:00,Return Preparation,7.71,91.5,3.7,1.5,252.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-12 21:00:00,Return Preparation,7.57,88.7,4.1,1.8,247.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-13 21:00:00,Return Preparation,7.77,88.2,4.7,2.3,234.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-14 21:00:00,Return Preparation,7.79,92.8,4.2,1.3,234.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-15 21:00:00,Return Preparation,7.46,96.2,4.4,2.0,256.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-16 21:00:00,Return Preparation,6.9,86.5,5.0,1.8,249.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-17 21:00:00,Return Preparation,7.5,91.6,4.8,1.9,244.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-18 21:00:00,Return Preparation,7.92,93.1,5.0,1.9,232.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-19 21:00:00,Return Preparation,8.56,90.9,4.4,1.2,240.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-20 21:00:00,Return Preparation,8.16,86.1,4.1,1.9,253.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-21 21:00:00,Return Preparation,7.66,85.9,4.7,1.8,241.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-22 21:00:00,Return Preparation,7.99,91.0,4.4,2.2,239.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-23 21:00:00,Return Preparation,7.38,94.5,4.6,1.2,232.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-24 21:00:00,Return Preparation,7.61,90.7,4.7,2.1,223.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-25 21:00:00,Return Preparation,7.36,93.8,4.8,1.9,235.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-26 21:00:00,Return Preparation,8.21,85.5,4.4,1.3,241.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-27 21:00:00,Return Preparation,7.29,93.5,3.5,1.3,235.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-28 21:00:00,Return Preparation,7.46,95.8,3.7,1.3,228.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+4,MARS-DEMO-01,2026-10-29 21:00:00,Return Preparation,7.61,85.7,4.8,1.5,243.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-01 21:00:00,Launch & Adaptation,6.97,81.9,4.3,1.6,257.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-02 21:00:00,Launch & Adaptation,7.43,87.8,4.2,2.6,259.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-03 21:00:00,Launch & Adaptation,6.9,87.0,3.9,1.3,246.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-04 21:00:00,Launch & Adaptation,8.05,88.4,3.8,2.2,247.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-05 21:00:00,Launch & Adaptation,7.88,80.4,3.8,2.7,256.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-06 21:00:00,Launch & Adaptation,7.07,88.7,4.1,2.1,245.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-07 21:00:00,Launch & Adaptation,6.63,93.8,4.0,2.0,247.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-08 21:00:00,Launch & Adaptation,6.72,86.0,3.3,2.3,242.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-09 21:00:00,Launch & Adaptation,7.87,88.3,4.3,2.3,269.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-10 21:00:00,Launch & Adaptation,7.65,88.1,3.9,1.9,269.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-11 21:00:00,Cruise,6.89,88.4,3.6,2.0,242.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-12 21:00:00,Cruise,8.19,94.1,4.0,2.2,258.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-13 21:00:00,Cruise,7.51,94.6,4.0,2.6,241.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-14 21:00:00,Cruise,6.98,81.3,3.3,2.6,262.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-15 21:00:00,Cruise,7.27,90.7,4.2,2.3,238.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-16 21:00:00,Cruise,8.04,91.2,4.3,3.1,248.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-17 21:00:00,Cruise,7.3,81.2,4.2,2.6,255.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-18 21:00:00,Cruise,6.74,85.6,4.4,2.5,257.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-19 21:00:00,Cruise,7.66,88.9,4.4,2.4,250.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-20 21:00:00,Cruise,7.36,90.0,4.3,2.9,255.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-21 21:00:00,Cruise,7.01,87.2,4.4,3.0,239.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-22 21:00:00,Cruise,7.1,85.8,3.9,3.0,258.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-23 21:00:00,Cruise,8.21,84.2,3.2,2.3,244.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-24 21:00:00,Cruise,7.74,90.5,4.3,3.0,232.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-25 21:00:00,Cruise,7.32,92.9,3.6,2.0,234.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-26 21:00:00,Cruise,6.93,85.0,4.0,2.2,238.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-27 21:00:00,Cruise,7.41,81.2,3.8,2.2,270.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-28 21:00:00,Cruise,7.63,86.9,4.1,2.5,272.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-29 21:00:00,Cruise,7.27,87.9,4.4,1.7,248.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-30 21:00:00,Cruise,8.36,82.1,3.9,2.1,266.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-08-31 21:00:00,Cruise,7.35,86.8,4.2,2.7,255.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-01 21:00:00,Cruise,7.31,86.7,3.3,2.3,241.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-02 21:00:00,Cruise,7.12,87.0,4.3,2.2,236.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-03 21:00:00,Cruise,7.42,85.3,4.2,3.0,246.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-04 21:00:00,Cruise,7.16,90.4,4.1,2.5,270.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-05 21:00:00,Cruise,7.37,88.0,4.1,2.2,253.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-06 21:00:00,Cruise,7.29,83.9,3.8,2.3,248.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-07 21:00:00,Cruise,6.81,79.9,4.5,1.7,242.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-08 21:00:00,Cruise,7.97,84.2,3.8,2.7,244.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-09 21:00:00,Cruise,6.88,88.8,3.7,2.5,240.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-10 21:00:00,Cruise,7.3,83.2,3.8,2.7,242.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-11 21:00:00,Cruise,8.23,85.7,3.8,2.1,262.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-12 21:00:00,Cruise,7.45,89.3,3.8,2.7,264.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-13 21:00:00,Cruise,7.46,84.8,3.9,2.3,235.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-14 21:00:00,Cruise,7.8,81.7,3.8,2.2,270.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-15 21:00:00,Cruise,6.75,85.3,3.6,2.7,239.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-16 21:00:00,Cruise,7.57,86.9,4.3,2.8,252.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-17 21:00:00,Cruise,7.16,85.9,3.9,2.5,252.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-18 21:00:00,Cruise,7.11,86.3,4.5,2.0,266.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-19 21:00:00,Cruise,7.81,86.2,4.2,2.3,255.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-20 21:00:00,Cruise,7.32,88.7,4.6,2.7,238.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-21 21:00:00,Cruise,7.53,81.6,3.8,2.6,266.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-22 21:00:00,Cruise,7.39,92.6,3.5,2.3,253.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-23 21:00:00,Cruise,7.83,88.4,3.9,2.1,265.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-24 21:00:00,Cruise,7.08,82.2,4.3,2.6,248.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-25 21:00:00,Cruise,7.84,85.5,3.6,2.3,225.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-26 21:00:00,Cruise,7.24,85.1,4.3,2.7,253.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-27 21:00:00,Cruise,7.66,92.6,4.3,2.6,258.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-28 21:00:00,Cruise,7.57,88.7,3.8,2.0,253.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-29 21:00:00,Cruise,6.93,87.7,3.9,2.9,232.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-09-30 21:00:00,Cruise,6.71,82.9,4.0,2.6,230.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-01 21:00:00,Cruise,8.26,95.2,3.8,1.8,267.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-02 21:00:00,Cruise,8.49,88.2,4.1,2.8,260.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-03 21:00:00,Cruise,7.56,86.9,4.6,2.3,265.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-04 21:00:00,Cruise,6.65,87.9,3.4,1.4,244.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-05 21:00:00,Cruise,7.74,88.6,3.6,2.9,247.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-06 21:00:00,Cruise,7.47,90.3,3.8,2.2,247.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-07 21:00:00,Cruise,7.25,83.0,3.8,2.4,247.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-08 21:00:00,Cruise,6.91,88.3,4.0,2.9,234.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-09 21:00:00,Cruise,6.87,88.0,4.5,3.3,226.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-10 21:00:00,Return Preparation,6.64,81.0,4.3,3.0,269.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-11 21:00:00,Return Preparation,7.34,89.0,4.2,2.6,241.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-12 21:00:00,Return Preparation,7.11,83.2,3.8,3.5,267.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-13 21:00:00,Return Preparation,6.44,87.3,4.0,3.4,239.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-14 21:00:00,Return Preparation,6.95,85.6,4.0,3.1,253.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-15 21:00:00,Return Preparation,7.08,81.8,3.8,3.2,259.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-16 21:00:00,Return Preparation,7.36,89.5,4.3,3.2,230.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-17 21:00:00,Return Preparation,6.97,88.9,4.1,3.7,254.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-18 21:00:00,Return Preparation,6.88,83.4,3.9,2.7,262.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-19 21:00:00,Return Preparation,7.15,86.7,4.0,2.9,257.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-20 21:00:00,Return Preparation,6.9,92.9,4.3,2.5,254.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-21 21:00:00,Return Preparation,7.52,85.4,3.8,2.3,249.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-22 21:00:00,Return Preparation,7.11,93.1,4.1,2.5,254.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-23 21:00:00,Return Preparation,7.83,87.6,3.2,2.8,245.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-24 21:00:00,Return Preparation,7.17,90.5,3.7,2.5,267.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-25 21:00:00,Return Preparation,7.71,87.3,3.7,2.7,258.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-26 21:00:00,Return Preparation,8.14,87.5,4.4,1.3,264.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-27 21:00:00,Return Preparation,6.85,85.0,3.9,1.8,241.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-28 21:00:00,Return Preparation,8.07,89.8,3.3,1.8,242.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+5,MARS-DEMO-01,2026-10-29 21:00:00,Return Preparation,7.34,90.2,4.0,2.0,247.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-01 21:00:00,Launch & Adaptation,7.07,91.9,4.1,1.7,269.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-02 21:00:00,Launch & Adaptation,7.23,87.5,4.0,1.6,247.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-03 21:00:00,Launch & Adaptation,7.57,92.4,3.7,1.8,257.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-04 21:00:00,Launch & Adaptation,7.82,87.7,4.1,1.6,240.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-05 21:00:00,Launch & Adaptation,7.35,89.3,3.8,2.3,245.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-06 21:00:00,Launch & Adaptation,7.93,86.1,4.1,2.7,238.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-07 21:00:00,Launch & Adaptation,8.02,80.6,4.7,1.6,243.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-08 21:00:00,Launch & Adaptation,7.57,87.8,4.7,2.1,255.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-09 21:00:00,Launch & Adaptation,7.43,92.9,4.4,2.2,243.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-10 21:00:00,Launch & Adaptation,6.62,89.9,4.5,2.6,262.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-11 21:00:00,Cruise,8.26,81.4,4.4,1.8,245.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-12 21:00:00,Cruise,8.36,82.8,4.7,2.0,262.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-13 21:00:00,Cruise,8.26,96.3,4.2,2.0,246.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-14 21:00:00,Cruise,7.06,85.4,3.8,2.4,256.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-15 21:00:00,Cruise,7.89,90.0,3.9,1.3,254.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-16 21:00:00,Cruise,7.78,87.4,4.1,1.8,252.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-17 21:00:00,Cruise,7.65,87.6,4.4,1.8,249.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-18 21:00:00,Cruise,7.32,91.6,4.6,2.3,246.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-19 21:00:00,Cruise,7.98,84.7,4.2,1.4,260.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-20 21:00:00,Cruise,7.79,84.2,4.8,2.3,246.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-21 21:00:00,Cruise,7.23,97.9,3.9,2.1,263.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-22 21:00:00,Cruise,8.05,88.0,4.6,1.7,241.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-23 21:00:00,Cruise,8.2,93.8,3.7,2.2,244.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-24 21:00:00,Cruise,7.08,88.0,4.2,2.0,246.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-25 21:00:00,Cruise,7.89,93.2,4.6,1.5,234.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-26 21:00:00,Cruise,6.42,88.5,4.6,2.9,251.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-27 21:00:00,Cruise,7.43,92.0,4.2,2.0,249.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-28 21:00:00,Cruise,7.65,91.3,4.8,2.0,249.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-29 21:00:00,Cruise,7.07,92.1,4.1,2.0,255.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-30 21:00:00,Cruise,7.83,83.3,4.7,2.0,243.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-08-31 21:00:00,Cruise,6.59,83.8,4.7,1.8,245.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-01 21:00:00,Cruise,7.45,97.3,4.0,1.9,262.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-02 21:00:00,Cruise,7.03,92.5,4.3,1.7,239.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-03 21:00:00,Cruise,7.47,93.3,4.4,1.9,255.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-04 21:00:00,Cruise,7.19,80.9,4.0,2.1,277.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-05 21:00:00,Cruise,7.93,97.9,4.3,2.1,237.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-06 21:00:00,Cruise,8.14,84.8,4.2,1.7,261.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-07 21:00:00,Cruise,7.41,92.1,5.0,2.2,249.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-08 21:00:00,Cruise,6.82,92.2,4.2,2.3,249.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-09 21:00:00,Cruise,7.21,87.2,4.6,2.0,250.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-10 21:00:00,Cruise,7.83,85.0,4.1,1.0,226.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-11 21:00:00,Cruise,7.02,86.9,3.9,1.8,257.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-12 21:00:00,Cruise,8.22,90.4,4.3,2.3,244.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-13 21:00:00,Cruise,6.98,85.8,4.6,1.9,250.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-14 21:00:00,Cruise,7.58,92.6,4.7,1.2,275.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-15 21:00:00,Cruise,7.18,88.0,4.2,3.0,255.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-16 21:00:00,Cruise,8.13,87.2,4.6,2.7,253.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-17 21:00:00,Cruise,8.38,88.1,3.8,1.5,234.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-18 21:00:00,Cruise,7.12,88.2,4.5,1.4,254.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-19 21:00:00,Cruise,7.05,88.5,4.0,1.4,252.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-20 21:00:00,Cruise,7.45,90.3,4.2,1.7,261.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-21 21:00:00,Cruise,7.21,86.0,4.5,2.2,239.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-22 21:00:00,Cruise,7.66,92.9,4.3,1.9,245.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-23 21:00:00,Cruise,7.57,87.2,4.2,2.0,237.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-24 21:00:00,Cruise,8.56,88.0,4.0,1.7,243.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-25 21:00:00,Cruise,8.32,91.0,4.1,2.6,233.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-26 21:00:00,Cruise,8.29,86.2,3.7,1.5,231.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-27 21:00:00,Cruise,7.42,88.2,4.2,2.1,253.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-28 21:00:00,Cruise,7.23,87.0,4.7,2.0,240.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-29 21:00:00,Cruise,8.16,87.2,4.2,2.0,269.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-09-30 21:00:00,Cruise,7.83,87.3,4.2,2.3,250.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-01 21:00:00,Cruise,8.5,86.3,3.9,2.6,262.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-02 21:00:00,Cruise,7.55,92.4,4.4,2.4,263.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-03 21:00:00,Cruise,7.94,84.5,4.6,2.1,244.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-04 21:00:00,Cruise,7.55,94.2,4.5,1.3,244.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-05 21:00:00,Cruise,7.59,92.2,4.4,1.7,251.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-06 21:00:00,Cruise,8.06,87.0,4.0,2.0,258.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-07 21:00:00,Cruise,7.74,89.2,4.5,1.7,244.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-08 21:00:00,Cruise,7.21,84.8,4.6,1.3,242.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-09 21:00:00,Cruise,7.82,88.8,4.1,2.8,236.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-10 21:00:00,Return Preparation,7.73,78.7,3.7,2.0,239.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-11 21:00:00,Return Preparation,6.93,85.2,4.6,1.2,232.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-12 21:00:00,Return Preparation,7.26,87.3,4.3,1.8,251.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-13 21:00:00,Return Preparation,7.27,88.2,4.6,1.8,242.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-14 21:00:00,Return Preparation,7.85,84.0,5.0,1.5,233.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-15 21:00:00,Return Preparation,7.0,81.8,4.6,1.4,257.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-16 21:00:00,Return Preparation,7.54,89.5,4.7,1.6,253.7,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-17 21:00:00,Return Preparation,7.29,90.4,4.3,2.2,263.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-18 21:00:00,Return Preparation,7.23,91.9,5.0,2.4,244.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-19 21:00:00,Return Preparation,7.87,92.2,4.0,2.0,249.5,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-20 21:00:00,Return Preparation,7.78,91.3,4.0,2.1,237.9,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-21 21:00:00,Return Preparation,6.96,93.9,3.8,2.4,257.4,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-22 21:00:00,Return Preparation,7.83,88.8,4.8,1.4,210.1,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-23 21:00:00,Return Preparation,8.38,89.2,5.0,1.9,254.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-24 21:00:00,Return Preparation,7.3,90.2,5.0,2.0,236.8,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-25 21:00:00,Return Preparation,8.37,85.5,4.5,2.0,268.0,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-26 21:00:00,Return Preparation,7.43,87.8,3.9,2.5,263.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-27 21:00:00,Return Preparation,7.34,89.4,4.0,1.7,279.2,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-28 21:00:00,Return Preparation,7.75,85.9,4.5,1.4,262.6,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task
+6,MARS-DEMO-01,2026-10-29 21:00:00,Return Preparation,8.07,87.6,4.0,1.7,252.3,"Illustrative 1-5 scale; 1=low, 5=high",Synthetic daily crew questionnaire/task

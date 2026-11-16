@@ -1,0 +1,32 @@
+# Publicação do Aurora (by Athenance) no Render: https://render.com
+# O servidor só usa a biblioteca padrão do Python; não há dependências para instalar.
+# A chave da OpenAI é cadastrada no painel do Render (sync: false), nunca no repositório.
+services:
+  - type: web
+    name: aurora-athenance
+    runtime: python
+    plan: free
+    buildCommand: python --version
+    startCommand: python web/serve.py
+    healthCheckPath: /api/status
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: HOST
+        value: 0.0.0.0
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-6-luna
+      - key: LLM_REASONING_EFFORT
+        value: none
+      - key: LLM_USD_PER_DAY
+        value: "off"
+      - key: LLM_CALLS_PER_DAY
+        value: "off"
+      # Teto de gasto total. No plano grátis o disco é apagado a cada nova publicação,
+      # então a contagem recomeça a cada deploy: ajuste este valor ao crédito restante.
+      - key: LLM_USD_TOTAL
+        value: "1.00"
+      - key: LLM_CALLS_PER_IP_HOUR
+        value: "30"

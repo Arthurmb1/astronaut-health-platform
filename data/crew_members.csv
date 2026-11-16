@@ -1,0 +1,7 @@
+crew_member_id,name,role,age_years,sex,mission_id,status
+1,Alex Morgan,Commander,38,F,MARS-DEMO-01,Active
+2,Sarah Chen,Flight Engineer,34,F,MARS-DEMO-01,Active
+3,James Wilson,Mission Specialist,41,M,MARS-DEMO-01,Active
+4,Priya Nair,Medical Officer,36,F,MARS-DEMO-01,Active
+5,Daniel Brooks,Pilot,39,M,MARS-DEMO-01,Active
+6,Elena Rossi,Mission Specialist,32,F,MARS-DEMO-01,Active

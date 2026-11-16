@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+
+.env
+.DS_Store
+.venv/
+web/.cache/
+
+# Não publicar: cópia antiga com venv de 575 MB e arquivos de rascunho
+astronaut-health-platform/
+*.zip
