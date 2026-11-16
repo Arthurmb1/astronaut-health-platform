@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR" data-theme="dark">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -841,7 +841,7 @@ rect.sd-light{fill:var(--stg-light)}rect.sd-deep{fill:var(--stg-deep)}rect.sd-re
   const TRANSLATED = new Set(['tripulante']);
   const D = { en: {}, es: {} };
   const missing = new Set();
-  let lang = 'pt';
+  let lang = 'en';  // idioma padrão na primeira visita; a escolha do usuário fica salva no navegador
   try { const v = localStorage.getItem(LS); if (LANGS[v]) lang = v; } catch (e) {}
 
   function t(s, vars) {

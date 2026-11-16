@@ -19,7 +19,7 @@
   const TRANSLATED = new Set(['tripulante']);
   const D = { en: {}, es: {} };
   const missing = new Set();
-  let lang = 'pt';
+  let lang = 'en';  // idioma padrão na primeira visita; a escolha do usuário fica salva no navegador
   try { const v = localStorage.getItem(LS); if (LANGS[v]) lang = v; } catch (e) {}
 
   function t(s, vars) {
